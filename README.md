@@ -15,4 +15,4 @@ Key Features:
 
 : k4io
 
-it doesnt build i cant remember if i deleted the original game_object class you will have to check and paste it in, i believe some features do not work anymore due to being patched also.
+it doesnt build i cant remember if i deleted the original game_object class you will have to check and paste it in, i also believe some features do not work anymore due to being patched.
